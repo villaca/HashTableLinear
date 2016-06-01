@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1432609324 source:c:\users\labccet\desktop\tentativalinear\hashitem.cpp
+	"HashItem.h"
+
+1432696900 c:\users\labccet\desktop\tentativalinear\hashitem.h
+	<string>
+
+1464820706 source:c:\users\labccet\desktop\tentativalinear\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"TabelaHash.h"
+
+1464820542 c:\users\labccet\desktop\tentativalinear\tabelahash.h
+	<iostream>
+	"HashItem.h"
+
+1464821109 source:c:\users\labccet\desktop\tentativalinear\tabelahash.cpp
+	"TabelaHash.h"
+
